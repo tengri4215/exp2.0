@@ -14,6 +14,8 @@ long long n, m, k, ans[1000];
 
 vector <int> bl[10000];
 
+void func2(int e){}
+
 int main()
 {
     //ifstream cin ("input.txt");
