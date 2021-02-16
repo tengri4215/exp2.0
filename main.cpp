@@ -14,7 +14,11 @@ long long n, m, k, ans[1000];
 
 vector <int> bl[10000];
 
+<<<<<<< HEAD
 void func1(int e){}
+=======
+void func2(int e){}
+>>>>>>> func1
 
 int main()
 {
